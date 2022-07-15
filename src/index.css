@@ -1,0 +1,121 @@
+body {
+    height: 921px;
+    /* For browsers that do not support gradients */
+    background-image: linear-gradient(black, #333);
+}
+
+#headNav {
+    position: absolute;
+    margin-left: 55.5%;
+    margin-top: -2%;
+}
+
+#carticon {
+    position: absolute;
+    margin-top: -7px;
+    margin-left: 71%;
+    text-decoration: none;
+    background-color: #333;
+    padding: 36px 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+#carticon:hover {
+    background-color: rgb(123, 201, 5);
+}
+
+.shopcart {
+    width: 70px;
+    height: 50px;
+}
+
+#headh1 {
+    position: absolute;
+    color: white;
+    background-color: #333;
+    padding: 10px 50px;
+    margin-left: 13%;
+    margin-top: -23px;
+    font-size: 40px;
+}
+
+#gwnav {
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 13%;
+    padding: 10px 10px;
+}
+
+.guitarsnavimg {
+    display: block;
+    width: 380px;
+    height: 300px;
+}
+
+.guitarsnav:hover {
+    color: #333;
+    background-color: rgb(123, 201, 5);
+}
+
+.glogo {
+    display: absolute;
+    padding: 5px 110px;
+    padding-right: -50px;
+    margin-top: 0%;
+    margin-left: 400px;
+    margin-bottom: -23px;
+    width: 125px;
+    height: 125px;
+}
+
+.heada {
+    padding-top: 129px;
+    padding-bottom: 13px;
+    font-size: 25px;
+}
+
+.footer {
+    position: absolute;
+    margin-top: 882px;
+    margin-left: 5%;
+    padding-left: 280px;
+    background-color: transparent;
+    float: left;
+    display: block;
+}
+
+.footli {
+    background-color: #111;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.foota {
+    font-size: 15px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 15.5px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+li a:hover {
+    color: rgb(123, 201, 5)
+}
