@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Guitar-store-website/static/css/main.9ee2e370.css",
+    "main.js": "/Guitar-store-website/static/js/main.d5c55783.js",
+    "static/media/allimg.jpg": "/Guitar-store-website/static/media/allimg.c4664fe4f8b8baa4fb6e.jpg",
+    "static/media/glogo.png": "/Guitar-store-website/static/media/glogo.1a2e8df5ee4c17acb271.png",
+    "static/media/bassimg.jpg": "/Guitar-store-website/static/media/bassimg.9e9a6d0d8ad1e0ad51d7.jpg",
+    "static/media/electricimg.jpg": "/Guitar-store-website/static/media/electricimg.45c346151f85685b2e74.jpg",
+    "static/media/acousticimg.jpg": "/Guitar-store-website/static/media/acousticimg.70a49b8886f09a6d991e.jpg",
+    "static/media/shop-cart.png": "/Guitar-store-website/static/media/shop-cart.6a2f3cf8099c552203b3.png",
+    "index.html": "/Guitar-store-website/index.html",
+    "main.9ee2e370.css.map": "/Guitar-store-website/static/css/main.9ee2e370.css.map",
+    "main.d5c55783.js.map": "/Guitar-store-website/static/js/main.d5c55783.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ee2e370.css",
+    "static/js/main.d5c55783.js"
+  ]
+}
